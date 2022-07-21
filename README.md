@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <img alt="GIF" align="right" src="hello.gif" style="width: 300px; margin: 10%"/>
 -->
 <h2>
-    Hey, Guys! 👋, I'm Michelle Ma :). &nbsp;&nbsp;
+    Hey, Guys! 👋, I'm Michelle :). &nbsp;&nbsp;
     <img src="https://visitor-badge.glitch.me/badge?page_id=xxiaomm.visitor-badge" alt="visitor badge"/>
 </h2>
 
