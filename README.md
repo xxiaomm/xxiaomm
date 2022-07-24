@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 <img alt="GIF" align="right" src="hello.gif" style="width: 300px; margin: 10%"/>
 -->
 &nbsp;
-<h2>
+<h1>
     Hey, Guys! 👋, &nbsp; I'm Michelle :) . &nbsp;&nbsp;
     <img src="https://visitor-badge.glitch.me/badge?page_id=xxiaomm.visitor-badge" alt="visitor badge"/>
-</h2>
+</h1>
 &nbsp;
 <h3>  :woman_technologist:  About Me </h3>
 
@@ -86,6 +86,7 @@ Here are some ideas to get you started:
 <p align="center">
 &nbsp; 
 &nbsp; <a href="https://www.instagram.com/m.xxiao/" rel="noopener noreferrer"><img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-3instagram-4102579_113804.png" height="45" /></a>
+&nbsp; <a href="https://twitter.com/xxiaomm" rel="noopener noreferrer"><img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579583-yumminkysocialmedia02_83111.png" height="45"/></a>
 &nbsp; <a href="https://www.linkedin.com/in/xxiaomm/" rel="noopener noreferrer"><img src="https://cdn.icon-icons.com/icons2/555/PNG/512/linkedin_icon-icons.com_53609.png" height="45" /></a>
 &nbsp; <a href="https://weibo.com/xxiao626" rel="noopener noreferrer"><img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-16weibo-4102588_113813.png" height="45" /></a>
 &nbsp; <a href="https://space.bilibili.com/24406079?spm_id_from=333.1007.0.0" rel="noopener noreferrer"><img src="https://logodix.com/logo/1224369.png" height="45" /></a>
