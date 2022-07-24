@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 &nbsp;
 <h1>
-    Hey, Guys! 👋, &nbsp; I'm Michelle :) . &nbsp;&nbsp;
+    Hey, Guys! 👋, &nbsp; I'm Michelle :)  &nbsp;&nbsp;
     <img src="https://visitor-badge.glitch.me/badge?page_id=xxiaomm.visitor-badge" alt="visitor badge"/>
 </h1>
 &nbsp;
