@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 <img alt="GIF" align="right" src="hello.gif" style="width: 300px; margin: 10%"/>
 -->
+&nbsp;
 <h2>
-    Hey, Guys! 👋, I'm Michelle :). &nbsp;&nbsp;
+    Hey, Guys! 👋, &nbsp; I'm Michelle :) . &nbsp;&nbsp;
     <img src="https://visitor-badge.glitch.me/badge?page_id=xxiaomm.visitor-badge" alt="visitor badge"/>
 </h2>
-
+&nbsp;
 <h3>  :woman_technologist:  About Me </h3>
 
 - 🔭 &nbsp; I’m currently a second-year MSCS student at [CIMS of NYU](https://cims.nyu.edu/dynamic/).
@@ -88,7 +89,7 @@ Here are some ideas to get you started:
 &nbsp; <a href="https://www.linkedin.com/in/xxiaomm/" rel="noopener noreferrer"><img src="https://cdn.icon-icons.com/icons2/555/PNG/512/linkedin_icon-icons.com_53609.png" height="45" /></a>
 &nbsp; <a href="https://weibo.com/xxiao626" rel="noopener noreferrer"><img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-16weibo-4102588_113813.png" height="45" /></a>
 &nbsp; <a href="https://space.bilibili.com/24406079?spm_id_from=333.1007.0.0" rel="noopener noreferrer"><img src="https://logodix.com/logo/1224369.png" height="45" /></a>
-&nbsp; <a href="https://www.tiktok.com/@xxiaomm" rel="noopener noreferrer"><img src="https://cdn.icon-icons.com/icons2/3007/PNG/512/tiktok_logo_icon_188431.png" height="45" /></a>
+&nbsp; <a href="https://www.tiktok.com/@xxiaomm" rel="noopener noreferrer"><img src="https://cdn.icon-icons.com/icons2/3007/PNG/512/tiktok_logo_icon_188431.png" height="48" /></a>
 &nbsp; <a href="mailto:xm2074@nyu.edu" target="_blank" rel="noopener noreferrer"><img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png"  height="45" /></a>
 </p>
 
