@@ -28,7 +28,9 @@ Here are some ideas to get you started:
 - 💼 &nbsp; I hope to be a full-stack Software Development Engineer.
 - 🌱 &nbsp; Enthusiast in software engineering and Game Development.
 - 🕹 &nbsp; Dancing, Skiing, Running, Guitar and all challenging things...
+<!--
 - 📙 &nbsp; I like writing [blogs](https://blog.csdn.net/sinat_36594453?spm=1010.2135.3001.5343) to summarize what I have learnt, unfortunately there are only Chinese articles so far.
+-->
 - 🌟 &nbsp; I speak Chinese and English.
 
 <h3>🛠 Tech Stack</h3>
