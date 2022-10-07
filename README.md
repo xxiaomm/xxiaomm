@@ -2,7 +2,7 @@
 
 <!--
 **xxiaomm/xxiaomm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+ 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -17,10 +17,8 @@ Here are some ideas to get you started:
 <img alt="GIF" align="right" src="hello.gif" style="width: 300px; margin: 10%"/>
 -->
 &nbsp;
-<h1>
-    Hey, Guys! 👋, &nbsp; I'm Michelle :)  &nbsp;&nbsp;
-    <img src="https://visitor-badge.glitch.me/badge?page_id=xxiaomm.visitor-badge" alt="visitor badge"/>
-</h1>
+## Hey, Guys! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), &nbsp; I'm Michelle :)&nbsp;&nbsp; <img src="https://visitor-badge.glitch.me/badge?page_id=xxiaomm.visitor-badge" alt="visitor badge"/>
+
 &nbsp;
 <h3>  :woman_technologist:  About Me </h3>
 
