@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 📙 &nbsp; I like writing [blogs](https://blog.csdn.net/sinat_36594453?spm=1010.2135.3001.5343) to summarize what I have learnt, unfortunately there are only Chinese articles so far.
 <img alt="GIF" align="right" src="hello.gif" style="width: 300px; margin: 10%"/>
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif),
 -->
-&nbsp;
-## Hey, Guys! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), &nbsp; I'm Michelle :)&nbsp;&nbsp; <img src="https://visitor-badge.glitch.me/badge?page_id=xxiaomm.visitor-badge" alt="visitor badge"/>
+## Hey, Guys! 👋  &nbsp; I'm Michelle :)&nbsp;&nbsp; <img src="https://visitor-badge.glitch.me/badge?page_id=xxiaomm.visitor-badge" alt="visitor badge"/>
 
-&nbsp;
 <h3>  :woman_technologist:  About Me </h3>
 
 - 🔭 &nbsp; I’m currently a second-year MSCS student at [CIMS of NYU](https://cims.nyu.edu/dynamic/).
@@ -68,7 +67,9 @@ Here are some ideas to get you started:
     <img height="40" src="https://cdn.icon-icons.com/icons2/2395/PNG/512/apple_mac_logo_icon_145682.png">
 </div>
 
+
 <br />
+<h3> :fire: My Stats :</h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxiaomm&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxiaomm&layout=compact&theme=swift&count_private=true)](https://github.com/devSouvik/github-readme-stats)
@@ -76,6 +77,11 @@ Here are some ideas to get you started:
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=xxiaomm&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+<!--
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xxiaomm&theme=tokyonight&date_format=n%2Fj%5B%2FY%5D&background=272627)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxiaomm&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 
 <br />
