@@ -92,7 +92,7 @@ Here are some ideas to get you started:
 &nbsp; <a href="https://www.instagram.com/m.xxiao/" rel="noopener noreferrer"><img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-3instagram-4102579_113804.png" height="45" /></a>
 <!-- &nbsp; <a href="https://twitter.com/xxiaomm" rel="noopener noreferrer"><img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579583-yumminkysocialmedia02_83111.png" height="45"/></a> -->
 &nbsp; <a href="https://www.linkedin.com/in/xxiaomm/" rel="noopener noreferrer"><img src="https://cdn.icon-icons.com/icons2/555/PNG/512/linkedin_icon-icons.com_53609.png" height="45" /></a>
-<!-- &nbsp; <a href="https://weibo.com/xxiao626" rel="noopener noreferrer"><img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-16weibo-4102588_113813.png" height="45" /></a> -->
+&nbsp; <a href="https://weibo.com/xxiao626" rel="noopener noreferrer"><img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-16weibo-4102588_113813.png" height="45" /></a>
 &nbsp; <a href="https://space.bilibili.com/24406079?spm_id_from=333.1007.0.0" rel="noopener noreferrer"><img src="https://logodix.com/logo/1224369.png" height="45" /></a>
 <!-- &nbsp; <a href="https://www.tiktok.com/@xxiaomm" rel="noopener noreferrer"><img src="https://cdn.icon-icons.com/icons2/3007/PNG/512/tiktok_logo_icon_188431.png" height="48" /></a> -->
 &nbsp; <a href="mailto:xm2074@nyu.edu" target="_blank" rel="noopener noreferrer"><img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png"  height="45" /></a>
