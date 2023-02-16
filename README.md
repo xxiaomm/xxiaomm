@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <h3>🛠 Tech Stack</h3>
 
 - ⚡ &nbsp; Java | Python | C | HTML | CSS | JavaScript 
-- 🌐 &nbsp; React | Vue | Node | Bootstrap ｜ SpringBoot｜ Django | Flask 
+- 🌐 &nbsp; React | Vue ｜ SpringBoot｜ Django | Flask 
 - 🚀 &nbsp; Algorithm ｜ Data Structure
 - 🛢 &nbsp; MySQL | MongoDB | PostgresSQL | Docker
 - 🔧 &nbsp; VS Code | PyCharm | CLion | IntelliJ IDEA | Git 
@@ -46,8 +46,8 @@ Here are some ideas to get you started:
     <img height="40", src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png">
     <img height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png">
     <img height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/vuejs_original_wordmark_logo_icon_146305.png">
-    <img height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png">
-    <img height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png">
+<!--     <img height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png"> | Node | Bootstrap  -->
+<!--     <img height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png"> -->
     <img height="40" src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png">
     <img height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png">
     <img height="40" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/flask_icon_132389.png">
