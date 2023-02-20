@@ -75,18 +75,18 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxiaomm&layout=compact&theme=swift&count_private=true)](https://github.com/devSouvik/github-readme-stats)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxiaomm&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxiaomm&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxiaomm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=xxiaomm&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=xxiaomm&theme=github&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 
-<!--
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xxiaomm&theme=tokyonight&date_format=n%2Fj%5B%2FY%5D&background=272627)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxiaomm&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
--->
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xxiaomm&theme=tokyonight&date_format=n%2Fj%5B%2FY%5D&background=272627)](https://git.io/streak-stats) -->
 
 
 <br />
